@@ -1,6 +1,7 @@
 # 🏥 Prescripto – Doctor Appointment Booking System
 
 🔗 Live Demo: https://prescripto-full-stack-nu.vercel.app
+              https://prescripto-full-stack-1nsh.vercel.app/admin-dashboard
 🔗 GitHub: https://github.com/KeshavKaushik13/prescripto-full-stack
 
 ---
