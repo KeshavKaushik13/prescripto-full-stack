@@ -5,6 +5,13 @@
 - 🔗 Live Demo: https://prescripto-full-stack-nu.vercel.app
 - 🔗 Admin Dashboard: https://prescripto-full-stack-1nsh.vercel.app/admin-dashboard
 - 🔗 GitHub: https://github.com/KeshavKaushik13/prescripto-full-stack
+  
+## Admin Test Credentials
+
+Use the following credentials to access the admin dashboard for testing:
+
+**Email:** admin@example.com  
+**Password:** greatstack123
 
 ---
 
