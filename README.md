@@ -11,7 +11,7 @@
 Use the following credentials to access the admin dashboard for testing:
 
 **Email:** admin@example.com  
-**Password:** greatstack123
+**Password:** 12345
 
 ---
 
